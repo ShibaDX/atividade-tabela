@@ -1,0 +1,13 @@
+body {
+    background-color: #dbdbdb;
+    font-family: 'Arial', 'sans-serif';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: auto;
+}
+
+.container-tabela {
+    width: 180vh;
+}
